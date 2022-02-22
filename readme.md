@@ -16,7 +16,8 @@ Notifications Setting
 
 Make sure that BuddyPress Private Messaging component is enabled.
 
-**IMPORTANT CHANGE**: If you are using LearnDash Notification plugin 1.5 or greater, following line must be modified in the LearnDash Notifications plugin to work this extended plugin.
+### IMPORTANT CHANGE REQUIRED
+If you are using LearnDash Notification plugin 1.5 or greater, following line must be modified in the LearnDash Notifications plugin to make this extended plugin work.
 
 File: `learndash-notifications/src/trigger.php`
 
